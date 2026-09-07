@@ -2,9 +2,11 @@
 
 Este repositório contém materiais, exercícios e projetos do curso de introdução à programação em **Python** voltado para **mulheres** interessadas em **análise de dados**.  
 
-### Vídeo do Projeto
+<h3>Vídeo do Projeto</h3>
 
-[![Assista ao vídeo](https://img.youtube.com/vi/rf3N2NVzUCg/0.jpg)](https://youtu.be/rf3N2NVzUCg)
+<a href="https://youtu.be/rf3N2NVzUCg" target="_blank">
+  <img src="https://img.youtube.com/vi/rf3N2NVzUCg/0.jpg" alt="Assista ao vídeo">
+</a>
 
 
 ## 📌 **Sobre a Progra{m}aria**  
