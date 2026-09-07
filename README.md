@@ -2,6 +2,11 @@
 
 Este repositório contém materiais, exercícios e projetos do curso de introdução à programação em **Python** voltado para **mulheres** interessadas em **análise de dados**.  
 
+### Vídeo do Projeto
+
+[![Assista ao vídeo](https://img.youtube.com/vi/rf3N2NVzUCg/0.jpg)](https://youtu.be/rf3N2NVzUCg)
+
+
 ## 📌 **Sobre a Progra{m}aria**  
 A **PrograMaria** é uma iniciativa que busca empoderar mulheres e pessoas de gêneros sub-representados por meio da tecnologia e da programação. A organização oferece cursos, eventos, imersões e formações para ampliar a diversidade de gênero no setor de tecnologia.
 Além disso, a **PrograMaria** promove campanhas e oportunidades gratuitas para quem deseja aprender programação, especialmente para pessoas que enfrentam barreiras sociais e econômicas. A iniciativa também tem um impacto social significativo, ajudando a reduzir o gap de gênero no mercado de trabalho e incentivando mais mulheres a ingressarem na área de tecnologia.  
